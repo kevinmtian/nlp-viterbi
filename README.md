@@ -1,4 +1,4 @@
-# NLP - Named Entity tagger with Viterbi algorithm
+# NLP - [Named Entity tagger with Viterbi algorithm](http://julianalouback.com/tech/2016/01/10/nlp-viterbi-named-entity-tagger/)
 
 Code for assignments from prof. Michael Collin's NLP course, COMSW4705 Spring 2015 at Columbia U.
 
